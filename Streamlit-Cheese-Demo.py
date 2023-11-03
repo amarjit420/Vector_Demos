@@ -116,7 +116,7 @@ def main():
 
     if vector and desc:
         # vector and desc search
-        query = f"SELECT name, aroma, image, country_origin FROM ks1.cheese WHERE description : '{desc}' ORDER BY item_vector ANN OF {embeddings} LIMIT {limit}"
+        query = f"SELECT name, aroma, image, country_origin FROM {KEYSPACE_NAME}.{TABLE_NAME} WHERE description : '{desc}' ORDER BY item_vector ANN OF {embeddings} LIMIT {limit}"
 
         results = session.execute(query)
         top_results = results._current_rows
@@ -125,7 +125,7 @@ def main():
         st.markdown(df.to_html(escape=False, formatters=dict(Image=path_to_image_html)), unsafe_allow_html=True)
     elif vector:
         #vector only search
-        query = f"SELECT name, aroma, image, country_origin FROM ks1.cheese ORDER BY item_vector ANN OF {embeddings} LIMIT {limit}"
+        query = f"SELECT name, aroma, image, country_origin FROM {KEYSPACE_NAME}.{TABLE_NAME} ORDER BY item_vector ANN OF {embeddings} LIMIT {limit}"
 
         results = session.execute(query)
         top_results = results._current_rows
