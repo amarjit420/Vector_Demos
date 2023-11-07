@@ -1,44 +1,44 @@
 [
     {
         "name": "Gouda",
-        "description": "Gouda, or \"How-da\" as the locals say, is a Dutch cheese named after the city of Gouda in the Netherlands. If truth be told, it\u00a0is one of the most popular cheeses in the world, accounting for 50 to 60% of the world's cheese consumption. It is a semi-hard cheese celebrated for its rich, unique flavour and smooth texture. The original cheese market in Gouda is one of the last standing commercial cheese markets in the Netherlands. Since the name is not protected, it has become a generic classification for all cheeses produced and sold under the name Gouda.\nGouda is typically made from pasteurised cow\u2019s milk although some artisan varieties use sheep\u2019s or goat\u2019s milk to produce it. Boerenkaas is a typical variety of unpasteurised Gouda cheese produced by the farmers from the milk of cows grazing on the natural, low pastures of the Netherlands. There are seven different types of Gouda cheese, categorized depending on age. Graskaas is young Gouda ready to be consumed within a few weeks of production. On the other hand, is the extra-aged, Overjarig cheese which has a full-flavoured, hard, golden interior and salty flavour reminiscent of toffee. Between the spectrums is a variety of Dutch Gouda classified as per the texture and age - Jong, Jong belegen, Belegen, Extra belegen, and Oud. The waxed rind of the cheese also changes by age as soft, younger Dutch Gouda cheese is identified by yellow, orange, or red wax rinds white mature cheese has black wax coverings.\nIn America, smoother and less flavourful commercial Gouda is more popular than Dutch Gouda. Artisans in the Netherlands may produce Dutch Gouda using raw milk as well as pasteurised milk.\u00a0 To enhance the flavour of the cheese, herbs, seasonings, and nuts are added. In the Netherlands, aged Gouda is commonly used to in soups and sauces.\nYoung Gouda is best paired with beer while medium-aged Gouda tastes best when paired with a fruity Riesling or Chenin Blanc. A well-aged Gouda complements wines that are deeply flavoured such as a rich Merlot or Shiraz. Gouda cheese may be grated, sliced, cubed or melted. It may be used as a table cheese or dessert cheese.",
+        "description": "Gouda, as the locals say, is a Dutch cheese named after the city of Gouda in the Netherlands. It is the most popular Dutch cheese in the world, accounting for 50 to 60% of the world's cheese consumption. Since the name is not protected, it has become a generic classification for all cheeses produced and sold under the name Gouda. Gouda is typically made from pasteurised cow's milk, although some artisan varieties are produced using sheep's or goat's milk.\u00a0Gouda cheese has a mild, sweet, and nutty flavour. The taste can vary depending on its age. Young Gouda is milder and creamier, while aged Gouda has a more intense and complex flavour. The texture of Gouda cheese ranges from semi-hard to hard. Young Gouda is softer and smoother, while aged Gouda becomes hard and develops tiny protein crystals. Gouda cheese has a pale yellow interior with a paraffin or wax rind on the outside.\u00a0\nThe ageing process can range from a few weeks to years. There are different varieties of Gouda, including plain or \"young\" Gouda, smoked Gouda (with smoky flavour), flavoured Gouda (infused with herbs, spices, or other ingredients), and extra-aged (or extra-matured) Gauda.\nGouda cheese is often enjoyed as a snacking cheese, melted on sandwiches or burgers. Young Gouda is suitable for melting, while aged Gouda is excellent for grating.",
         "country_origin": "Netherlands",
-        "aroma": "pungent",
+        "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/GOUDA_SqYJjRh.jpg"
     },
     {
         "name": "Brie",
-        "description": "Brie is the best known French cheese and has the nickname \"The Queen of Cheese\". Brie is a soft cheese named after the French region Brie, where it was originally created. Several hundred years ago, Brie was one of the tributes which had to be paid to the French kings.\nIn France, Brie is very different from the cheese exported to the United States. Real French Brie is unstabilized and the flavour is complex when the surface turns slightly brown. When the cheese is still pure-white, it is not matured. If the cheese is cut before the maturing process, it will never develop properly. Exported Brie, however, is stabilized and never matures. Stabilized Brie has a much longer shelf life and is not susceptible to bacteriological infections.\nBrie is produced from the whole or semi-skimmed cow's milk. Rennet is added to the raw milk and heated to a temperature of 37\u00b0C (99\u00b0F) to obtain the curd.\u00a0 The cheese is then cast into moulds, several layers of cheese are filled into the mould and then kept for around 18 hours. After this, the cheese is salted and aged for a minimum of four weeks.\nBrie cheese is slightly pale in colour with a greyish tinge under a rind. Its flavour varies depending upon the ingredients added while producing the cheese.\nBrie, one of the great dessert cheeses, comes as either a 1 or 2-kilogram wheel and is packed in a wooden box. In order to enjoy the taste fully, Brie must be served at room temperature.\nPlease note:\u00a0Pasteurized milk is required in the United States and Australia.",
+        "description": "Brie cheese is a soft and creamy French cheese known for its mild, buttery flavour. It is named after the Brie region in France, where it originated. Brie is traditionally made from cow's milk and is often produced in large wheels or rounds.\nBrie is a soft cheese that becomes more creamier and softer as it ripens. The outer layer is firmer, but the inner part is gooey and luscious. It has a white, edible rind made of mould that contributes to its flavour and texture.\nBrie can be used in both savoury and sweet dishes. It's often served as an appetizer, sliced and served with bread, crackers, or fruit. Brie goes well with white wines like Chardonnay, Sauvignon Blanc and Champagne.\nThere are various types of Brie, including traditional Brie de Meaux and Brie de Melun, which are PDO (protected designations of origin) in France. Additionally, many countries produce their own versions of Brie, which can vary in taste and texture.",
         "country_origin": "France",
-        "aroma": "pronounced, strong",
+        "aroma": "buttery, mild",
         "image": "https://www.cheese.com/media/img/cheese/Brie_PDCo3RG.jpg"
     },
     {
         "name": "American Cheese",
-        "description": "American cheese is processed cheese made from a blend of milk, milk fats and solids, other fats and whey protein concentrate. Earlier, it was made from a mixture of cheeses. Since blended cheeses are no longer used, it cannot be legally called \"cheese\" and has to be labelled as \"processed cheese\", \"cheese product\", etc. Sometimes, it is called \"American slices\" or \"American singles\" instead of the word cheese. Under the U.S. Code of Federal Regulations, American cheese is a type of pasteurised processed cheese.\nThe taste and texture of this processed cheese vary depending on the usage of cheese and additives. Also, the colour may change from orange and yellow to white from manufacturer to manufacturer. It is sold in three varieties \u2013 individually wrapped cheese slices, small pre-sliced blocks and large blocks.\u00a0\nAlthough criticized for its high fat and sodium content, American cheese is still used in cooking as it melts well and contains a good amount of calcium and protein.",
+        "description": "American cheese, often found in households and restaurants across the United States, is a processed cheese product with a unique place in American cuisine. This cheese is made from cheddar, Colby or similar cheeses. It is known for its mild, creamy taste and smooth, uniform texture.\nIt's often used to make classic comfort foods like grilled cheese sandwiches, cheeseburgers, and macaroni and cheese. American cheese has a low melting point, making it a popular choice while making various dishes. While it may not share the same artisanal qualities as some other cheeses, American cheese has firmly established itself as an integral part of American culinary traditions, contributing to the beloved flavours of countless iconic dishes.",
         "country_origin": "United States",
         "aroma": "mild",
         "image": "https://www.cheese.com/media/img/cheese/10-American-Cheese-shutterstock_1610208106.jpg"
     },
     {
         "name": "Pecorino Romano",
-        "description": "Pecorino is a term used to define Italian cheese made from 100% sheep's milk. Pecorino Romano is the most ancient cheese and the most famous cheese outside Italy. The six Pecorino varieties have received Protected Designation of Origin (PDO) status under European Union law. All these varieties differ from each other, depending on their ageing period. As per legislation, production of Pecorino Romano is allowed only on the islands of Sardinia, Lazio and in the Tuscan Province of Grosseto.\nThe other pecorino cheeses are Pecorino Sardo (from Sardinia), Pecorino Toscano (from Tuscany), Pecorino Siciliano (from Sicily), Pecorino di Filiano (from Basilicata) and Pecorino Crotonese (from Province of Crotone in Calabria).\nAs the name suggests, the history of Pecorino Romano dates back to Roman times when it was a part of the staple diet of soldiers at war. Roman authors, including Varro, Pliny the Elder, Hippocrates and Columella, have mentioned cheese & its production techniques. Even today, cheese is made using the traditional method. During the ageing process, the wheels get salted numerous times by hand. After ageing for more than five months, \u00a0it develops a dry and granular texture and a strong taste. When young, the cheese has a soft and rubbery texture with a sweet and aromatic flavour. The flavour becomes sharper and smokier when aged for more than eight months.\nPecorino Romano is one of the most widely used, sharper alternatives to Parmesan cheese. Pecorino Romano is an excellent grating cheese over pasta dishes, bread and baking casseroles. Pair it with a big, bold Italian red wine or a light beer.",
+        "description": "Pecorino Romano is an Italian cheese made from sheep's milk, particularly from the Sardinian breed of sheep. Pecorino Romano cheese is recognized with a Protected Designation of Origin, ensuring that it is produced according to traditional methods in specific regions like Lazio and Sardinia of Italy.\nIt is a hard and crumbly cheese with a granular texture, which makes it perfect for grating. It has a strong, sharp, and salty flavour with a slightly nutty undertone. Pecorino Romano is aged for a minimum of five months, although some versions can be aged for a year or more, resulting in a more intense flavour.",
         "country_origin": "Italy",
         "aroma": "strong",
         "image": "https://www.cheese.com/media/img/cheese/Pecorino_romano_cheese.jpg"
     },
     {
         "name": "Cheddar",
-        "description": "England was the only place where cheddar was made during the olden days. However, many countries manufacture cheddar today.\u00a0Any cheese producing company or artisan manufacturer in any corner of the world can label the cheese produced by them as 'cheddar' since it is not protected like other cheese names or brands.\u00a0\nCheddar cheese, the most widely purchased and eaten cheese globally, is always made from cow's milk. It is a hard cheese with a slightly crumbly texture if properly cured, and if it is too young, the texture is smooth. It gets a sharper taste as it matures, over a period of time between 9 to 24 months. It is shaped like a drum, and its colour generally ranges from white to pale yellow. However, some cheddars are orange, if\u00a0colourings such as annatto are added.",
+        "description": "Cheddar cheese originated in the English village of Cheddar in the 12th century. It has since become one of the world's most widely consumed and recognized cheese varieties. Cheddar cheese is known for its rich and creamy texture and sharp and tangy flavour. The colour of the cheese ranges from white to pale yellow or orange, depending on the addition of food colourings.\nCheddar cheese is typically made from cow's milk, although variations using goat's or sheep's milk also exist. Some Cheddars are aged for a few months, while others are aged for several years.\u00a0Cheddar cheese can be found in blocks, slices, shredded, or even powdered (as in powdered cheese used for making macaroni and cheese). It's a versatile cheese used in sandwiches, burgers, soups, salads, and casseroles. It can also be enjoyed with fruits, crackers, and wine.\nThere are many regional and international variations of the cheese, and it comes in different flavours and textures. Some well-known types of Cheddar include mild, medium, sharp, and extra sharp Cheddar.",
         "country_origin": "England",
         "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/wiki/cheddar.jpg"
     },
     {
         "name": "Manchego",
-        "description": "The Manchego cheese is produced in the La Mancha region of Spain, which is also home to Don Quixote. It is made from pasteurized sheep's milk. It is one of the popular cheeses from Spain and comes under the PDO (DOP) guidelines.\nThe traditional use of grass moulds leaves a distinctive, characteristic zigzag pattern on the Manchego cheese. Authentic Manchego is only made from the Manchego sheep's milk. Manchego cheese is made from both pasteurized and unpasteurized milk. The farmhouse version is produced from unpasteurized milk, while the industrial version is produced from pasteurized milk. The Corcuera family was the first to make and commercialize Manchego cheese in Castilla La Mancha.\nThe rind is inedible with a distinctive, traditional herringbone basket weave pattern. A typical ear wheat pattern is pressed onto the top and bottom wheels of the cheese. Manchego cheese is available in wide varieties.\nFresco:\u00a0Fresh cheese aged for two weeks. The flavour is rich, mild and is rarely available outside Spain.\nSemi Curado:\u00a0Semi-firm cheese aged around three weeks to three months. It is supple and moist with a fruity flavour and tangy notes.\nCurado:\u00a0Semi-firm cheese aged for 3-6 months. The flavour is caramel and nutty.\nViejo: Firm cheese aged for 1-2 years. The flavour is sharp with a crumbly texture. It has a\u00a0rich, deep pepperiness to it.\nManchego cheeses are best paired with sherry. Cheeses similar to Manchego are called 'Machego like cheeses', but the producers cannot legally name the cheese as Manchego.",
+        "description": "Manchego cheese is a Spanish cheese made from pasteurized sheep's milk. It originates from the La Mancha region of Spain and is known for its distinctively creamy, firm, and slightly crumbly texture. This PDO (DOP) cheese has a mild, nutty flavour with a hint of tanginess, which becomes more pronounced as it ages.\nManchego cheese is typically aged for different periods, ranging from a few months to several years. Its rind has a traditional basket-weave pattern. The younger, milder versions are often used in dishes like grilled cheese sandwiches, while the older varieties develop a more intense flavour and are enjoyed with fruits and wine.\nManchego cheese is available in wide varieties.\n\nFresco: Fresh cheese aged for two weeks. The flavour is rich and mild and is rarely available outside Spain.\nSemi Curado: Semi-firm cheese aged around three weeks to three months. It is supple and moist with a fruity flavour and tangy notes.\nCurado: Semi-firm cheese aged for 3-6 months. The flavour is caramel and nutty.\nViejo: Firm cheese aged for 1-2 years. The flavour is sharp with a crumbly texture. It has a rich, deep pepperiness to it.",
         "country_origin": "Spain",
-        "aroma": "grassy, pleasant",
+        "aroma": "mild",
         "image": "https://www.cheese.com/media/img/cheese-suggestion/manchego_1280x800_1.jpg"
     },
     {
@@ -50,30 +50,30 @@
     },
     {
         "name": "Camembert",
-        "description": "Marie Harel created the original Camembert cheese from raw milk in Normandy, France, in 1791. Today, however, a very small percentage of producers make cheese from raw milk with the same process as Marie Harel would have used. Those who produce cheese using Marie Harel's method can legally call their cheese Camembert Normandie under the AOC guidelines. However, the production of Camembert cheese has now transcended the AOC designation. Good varieties of Camembert cheese made from pasteurised milk can be found in Normandy today. The best of them is the Camembert Le Ch\u00e2telain.\nThe fresh Camembert cheese is bland, hard and crumbly in texture. Young Camembert has a milky and sweet taste. As the cheese matures, it forms a smooth, runny interior and rich, buttery flavour. The white bloomy rind is because of\u00a0a white fungus.\nThis cheese is best paired with a light red wine such as Beaujolais, Chenin Blanc, St Emilion, St Estephe or traditionally a glass of Normandy cider.",
+        "description": "Marie Harel created the original Camembert cheese from raw milk in Normandy, France, in 1791. Today, however, very few producers make cheese from raw milk with the same process as Marie Harel would have used. Those who produce cheese using Marie Harel's method can legally call their cheese Camembert Normandie under the AOC guidelines. However, the production of Camembert cheese has now transcended the AOC designation. Some varieties of Camembert cheese made from pasteurised milk can be found in Normandy. The best of them is the Camembert Le Ch\u00e2telain.\nThe fresh Camembert cheese is bland, hard and crumbly in texture. Young Camembert has a milky and sweet taste. As the cheese matures, it forms a smooth, runny interior and rich, buttery flavour. The white bloomy rind is because of\u00a0a white fungus.\nThis cheese is best paired with a light red wine such as Beaujolais, Chenin Blanc, St Emilion, St Estephe or traditionally a glass of Normandy cider.",
         "country_origin": "France",
-        "aroma": "earthy",
+        "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/Camembert.jpg"
     },
     {
         "name": "Provolone",
-        "description": "Provolone is an Italian cheese made from cow\u2019s milk whose origins lie in Southern Italy. Today, the major production of Provolone takes place in the Po Valley region, particularly in Lombardy and Veneto. Provolone Valpadana and Provolone del Monaco are granted DOP designation by the European Union to ensure that cheese is produced under strict supervision using specific methods to guarantee supreme quality.\nProvolone cheese is classified into two forms: Provolone Dolce, aged for two to three months, has a pale yellow to white colour and sweet taste. The other, Provolone Piccante, is aged for more than four months and has a sharp taste. In South America, a similar cheese called Provoleta is eaten with grilled meat. Provolone, produced in America, is similar to the Dolce variety. The flavours of Provolone broadly vary depending on where it\u2019s made. Mostly, it is made from cow\u2019s milk and has a semi-hard texture.\nProvolone contains high amounts of calcium and protein, but on the other hand, it is also high in sodium. The cheese goes well with full-bodied and aged red wines. It is served with hot chutney, homemade bread and flatbread.",
+        "description": "Provolone cheese is an Italian semi-hard cheese known for its sharp and tangy flavour. The cheese has its origins in Southern Italy. It is also made in other regions of Italy and other countries. It is typically made from cow's milk and is aged, resulting in two main varieties: Provolone Dolce and Provolone Piccante.\u00a0\nProvolone Valpadana and Provolone del Monaco have received the PDO (Protected Designation of Origin) label from the European Union, which regulates the production of these cheeses, ensuring they are produced in certain Italian regions using specific ingredients and methods of production.\nProvolone Dolce: This is the younger, milder version of Provolone, aged for two to three months. It is pale yellow with a mild, creamy, and slightly sweet flavour.\nProvolone Piccante: This is the more mature and sharp version, aged for at least four months but often longer. It has a pale yellow to amber colour and a stronger, tangier flavour with a firm texture. The longer it's aged, the sharper the taste.\nProvolone can be enjoyed as a table cheese, either on its own or with bread, crackers, or fruit. Provolone cheese is often used for melting, making it suitable for sandwiches, burgers, pizzas, and Italian dishes like lasagna and baked pasta.",
         "country_origin": "Italy",
         "aroma": "pleasant",
         "image": "https://www.cheese.com/media/img/cheese/Provolone.jpg"
     },
     {
         "name": "Babybel",
-        "description": "Babybel, a French version of Dutch Edam cheese, has been sold internationally by 'The Bel Group, France' since 1952. In 1977, the company introduced Babybel's smaller version, 'Mini Babybel', a delightful snack packed with calcium and ready to eat anytime and anywhere.\u00a0\nBabybel, a semi-hard cheese, is made from pasteurised cow's milk. It comes in a net bag where each piece features a distinctive red wax coating. There are several varieties available in the US \u00a0like: Babybel\u00aeOriginal, Babybel\u00aeLight, Babybel\u00aeWhite Cheddar, Mini Babybel\u00aeMonterey Jack, Babybel\u00aeSharp Original, Babybel\u00ae Gouda and Babybel\u00ae Mozzarella cheese.",
+        "description": "Babybel cheese is a popular brand of snack cheese that originated in France. It is known for its small, round portions, each encased in a colourful wax coating. It has a creamy, semi-soft texture with a \u00a0mild and slightly tangy flavour that is easy to spread or eat in small bites.\nBabybel cheese comes in different flavours and variations, with the classic version being a mild, semi-soft cheese. Common flavours include original, light, cheddar, and other seasonal variations.\nBabybel cheese can also be used in salads, sandwiches, or as an accompaniment to crackers and fruits.",
         "country_origin": "France",
         "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/baby_bell_istock.jpg"
     },
     {
         "name": "Parmesan",
-        "description": "The Parmigiano Reggiano or Parmesan Parmigiano, or simply Parmesan cheese as it is called in English, is considered to be among the top cheeses by cheese connoisseurs. Today, it is produced by various producers. However, the PDO designation states that for a cheese to be called Parmesan, it has to be produced from cows grazing on fresh grass and hay.\nCheeses mocking Parmigiano Reggiano are called Parmesan or Italian hard cheese by producers to avoid legal issues. Parmigiano Reggiano cheese is named after the provinces in which it is made, namely Provinces of Parma, Reggio Emilia, Modena, Bologna and Mantua.\nTrue Parmesan cheese has a hard, gritty texture and is fruity and nutty in taste. Cheeses mocking Parmesan or inferior Parmesan may have a bitter taste. Parmigiano Reggiano cheese is mostly grated over pastas, used in soups and risotto. It is also eaten on its own as a snack.",
+        "description": "Parmesan cheese is a renowned Italian cheese, often called Parmigiano-Reggiano (its authentic Italian name). The most famous production region is the Emilia-Romagna and Lombardy areas, especially Parma, Reggio Emilia, and Modena. It is protected by a PDO status, ensuring its quality and origin. There are also similar cheeses, such as Parmesan-style or Grana Padano, which are less expensive alternatives.\nParmesan cheese is made from cow's milk and follows a strict, traditional production process. Authentic Parmesan cheese has a hard, inedible rind with the cheese's name and stamp imprinted on it. This rind is often removed before using the cheese. The cheese is known for its savoury taste and robust, salty, and nutty flavour. It has a hard and granular texture, which is a result of its ageing process. It is aged for an extended period, typically around 18 months to 36 months, and can even be aged for several years. As it matures, its flavour becomes more intense and complex, and its texture drier and grainier.\nThe cheese is often grated and sprinkled on pasta dishes, salads, and other Italian and Mediterranean dishes. It's a key ingredient in dishes like spaghetti carbonara and risotto.",
         "country_origin": "Italy",
-        "aroma": "strong",
+        "aroma": "nutty, strong",
         "image": "https://www.cheese.com/media/img/cheese/parmesan_on_wooden_surface.jpg"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "name": "Mozzarella",
-        "description": "Mozzarella is a curd cheese originating in southern Italy. Traditionally cheese is made from Italian buffalo's\u00a0milk by pasta filata method.\u00a0Mozzarella cheese is not aged like most cheeses. It is eaten fresh and within a few hours after it is made. It can be kept in brine for up to a week. Low-moisture mozzarella can be refrigerated for a month; some shredded low-moisture mozzarella's shelf life is up to six months.\u00a0\nSince 1996, mozzarella is recognised as a Traditional Specialty Guaranteed (TSG/STG) food product in the EU. It is available in the form of balls of different sizes.\u00a0Fresh mozzarella\u00a0is one of those easy-to-make-at-home cheeses used in salads, meats, seafood, and vegetables.\nMozzarella di Bufala, also known as 'buffalo mozzarella', is made from domesticated water buffalo milk.\nMozzarella Fior di Latte is produced from fresh, pasteurised or unpasteurised cow milk, while low-moisture mozzarella is made from whole or partly skimmed milk. And last, but not least, mozzarella affumicata is a smoked variety of mozzarella.\nCiliegine is a traditional Italian type of mozzarella made with pasteurized cow's milk or sometimes with water buffalo's milk, and is available in small smooth white balls.\nMozzarella made from sheep's milk by adding lamb rennet, is called mozzarella pecorella or\u00a0mozzapecora, in Sardinia, Abruzzo, and Lazio.\nMozzarella is also produced from goat's milk.",
+        "description": "Mozzarella is a curd cheese originating in southern Italy. It is a popular Italian cheese known for its mild flavour, slightly sweet taste and soft, stretchy and elastic texture when it's fresh. It becomes firmer and less elastic as it ages. Traditionally, cheese is made from Italian buffalo's milk by pasta filata method. Mozzarella cheese is not aged like most cheeses. It is eaten fresh and within a few hours after it is made. It can be kept in brine for up to a week. Low-moisture mozzarella can be refrigerated for a month; some shredded low-moisture mozzarella's shelf life is up to six months.\u00a0\nSince 1996, mozzarella has been recognised as a Traditional Specialty Guaranteed (TSG/STG) food product in the EU. It is available in the form of balls of different sizes. Fresh mozzarella\u00a0is one of those easy-to-make-at-home cheeses used in salads, meats, seafood, and vegetables.\nMozzarella di Bufala, also known as 'buffalo mozzarella', is made from domesticated water buffalo milk.\nMozzarella Fior di Latte is produced from fresh, pasteurised or unpasteurised cow's milk, while low-moisture mozzarella is made from whole or partly skimmed milk. And mozzarella affumicata is a smoked variety of mozzarella.\nCiliegine is a traditional Italian type of mozzarella made with pasteurized cow's milk or sometimes with water buffalo's milk, and is available in small smooth white balls.\nMozzarella made from sheep's milk by adding lamb rennet is called mozzarella pecorella or\u00a0mozzapecora, in Sardinia, Abruzzo, and Lazio.\nMozzarella is also produced from goat's milk.",
         "country_origin": "Italy",
         "aroma": "fresh, milky",
         "image": "https://www.cheese.com/media/img/cheese/mozzarella_cheese_on_wooden_cutting_board.jpg"
@@ -189,11 +189,228 @@
         "image": "https://www.cheese.com/media/img/cheese/cream_cheese_bagel.jpg"
     },
     {
+        "name": "Cream Havarti",
+        "description": "Denmark's most famous cheese, Cream Havarti, is a deliciously mild, very creamy, semi-soft cheese.\u00a0Cream Havarti is\u00a0interior-ripened cheese that is aged for around three months. The cheese has tiny holes throughout the paste. The cheese can be mild to sharp in flavour, depending on its age.\nThe Havarti is different from Cream Havarti. Havarti is made from high-pasteurised cow's milk. Cream Havarti is prepared with the same recipe, but it is enriched with extra cream.\nCream Havarti is available in different flavours such as caraway, dill, cranberry, garlic, basil, coconut and red pepper. Havarti and Cream Havarti both are table cheeses that can be sliced or grilled and can be served with fruit and wine.\nSmoked Havarti is another variety of Havarti. The smoked rind adds a new dimension to the traditional Havarti cheese.",
+        "country_origin": "Denmark",
+        "aroma": "sweet",
+        "image": "https://www.cheese.com/media/img/cheese/Havarathi.jpg"
+    },
+    {
+        "name": "Fromage a Raclette",
+        "description": "Raclette is a semi-hard cheese produced in the French and Swiss Alps. As they are traditionally called, Valais Raclette or Fromage a Raclette are made using traditional methods with unpasteurised milk of cows grazing on the alpine meadows. The name Raclette comes from the French word 'racler', which means 'to scrape'. The cheese has a thin, brownish-orange rind and a pale yellow pate with a few scattered open holes. It has a distinctive pleasant, aromatic smell with a creamy texture, similar to Gruyere cheeses, which do not separate even when melted. The flavour can vary from nutty, slightly acidic, to milky. While Switzerland supplies 80% of Raclettes, French Raclettes are slightly softer with a smooth and creamy flavour. Raclette is also a name of a Swiss dish. Raclette comes in round and square shapes and can be served with Vin de Savoie.",
+        "country_origin": "France and Switzerland",
+        "aroma": "aromatic, fruity, pleasant",
+        "image": "https://www.cheese.com/media/img/cheese/Raclette.jpg"
+    },
+    {
+        "name": "Pecorino",
+        "description": "Pecorino cheese is an Italian cheese made from sheep's milk, particularly the milk of the Sardinian breed of sheep known as \"Pecora\" in Italian, from which it gets its name. There are several types of Pecorino cheese, each with unique characteristics, but they all share a distinctive, tangy flavour and a crumbly texture. Pecorino cheese is popular for its versatility, as it can be used for grating, shaving, or eating in chunks. It pairs well with Italian wines. The characteristics of Pecorino cheese can vary based on factors like the region where it is produced, the ageing period and the cheese-making techniques used.\nPopular varieties of Pecorino cheese that\u00a0have Protected Designation of Origin (PDO) status are:\nPecorino Toscano: This cheese comes from Tuscany and has a milder, sweeter flavour than its Roman and Sardinian counterparts. It is a hard cheese and is often used in salads, sandwiches, or as part of a cheese platter.\nPecorino Romano: This is a hard and salty cheese originating from the region of Lazio, Sardinia, and parts of Tuscany. Pecorino Romano is known for its sharp and robust flavour.\nPecorino Sardo: Hailing from the island of Sardinia, Pecorino Sardo has a more subtle, nutty flavour than Pecorino Romano. It is aged for several months and is a versatile cheese used in various dishes.",
+        "country_origin": "Italy",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/pecorino_1280x800.jpg"
+    },
+    {
         "name": "Sage Derby",
         "description": "Sage Derby is a variety of British Derby cheese infused with sage to produce a glorious green marble effect and subtle herb flavour. It is England\u2019s oldest and most famous cheese, made only for special occasions like Christmas.\nTo make this cheese, freshly milled, salted Derby curd and sprinkles of fresh sage are arranged in layers and left to mature for six months. Some dairies blend dried sage with mature, chopped Derby and then repress it again.\nIt is a semi-hard, delicate cheese with a mild sage flavour and is well known for its versatility. Its natural rind is often dusted with sage. Due to the bright markings, the cheese looks very striking on a cheeseboard.",
         "country_origin": "England and United Kingdom",
         "aroma": "herbal",
         "image": "https://www.cheese.com/media/img/cheese/Sage_derby_cheese.jpg"
+    },
+    {
+        "name": "Adelost",
+        "description": "Adelost is a Swedish blue cheese made from pasteurized cow's milk. The blue-grey veins running throughout are a distinctive feature of the cheese. It has a sharp, salty and tangy flavour. The ripening process is for two to three months. The cheese comes in a drum shape with a rind of pale cream, which is lightly dotted with moulds.",
+        "country_origin": "Sweden",
+        "aroma": "strong",
+        "image": "https://www.cheese.com/media/img/cheese/Adelost_QnxYLx6.jpg"
+    },
+    {
+        "name": "Camembert de Normandie",
+        "description": "Camembert de Normandie is a unpasteurised cow's milk cheese made by Fromagerie Reaux in Normandy, France. This AOC cheese has a pure, creamy and luxurious taste. Some varieties of Camembert cheese are made from pasteurised milk in Normandy and the best of them is Camembert Le Ch\u00e2telain.",
+        "country_origin": "France",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/Camembert_1280x800.jpg"
+    },
+    {
+        "name": "Truffle Cheese",
+        "description": "Truffle cheeses are highly exotic, aromatic cheeses that have been flavoured with fresh truffles, a highly valued fungus with an earthy, intricate flavour and aroma. Most truffle cheeses have shavings of truffles in them, but sometimes they can be flavoured with truffle oil. Italy and France are popular for their variety of truffle cheeses. Here is a look at some of the truffle cheeses:\n\nTruffle Tremor\u00a0\u2013 Made by Cypress Grove, California, is a goat\u2019s milk cheese with fragments of truffle right through the soft, creamy cheese.\n\n\nSottocenere \u2013 A semi-soft Italian cheese with flavours of liquorice, nutmeg, coriander, cloves, cinnamon and fennel coated onto the rind.\nMoliterno Black Truffle Pecorino \u2013 A raw sheep\u2019s milk Sardinian cheese covered with black truffle paste. It tastes nutty, earthy and salty, similar to a pecorino. The distinctive layers of truffles can be seen throughout the cheese.\nBoschetto al Tartufo - A semi-soft Italian cheese made with a blend of cow and sheep\u2019s milk. Mild cheese is dictated by the flavours of white truffles.\n\n\nTruffle and Salt Cheddar \u2013 From the Ballard Family Dairy and Cheese in Idaho, this is an aged, pasteurised cheddar flavoured with black truffle salt.\nTruffle Gouda \u2013 Dutch Gouda sprinkled with black truffle. It tastes less sharp and sweet than other types of Gouda.\n\nThese cheeses taste delicious with condiments, for example, Truffle and Porto Sauce, Black Truffle Mustard, Black Truffle Sherry Vinegar and many others.",
+        "country_origin": "Unknown",
+        "aroma": "aromatic",
+        "image": "https://www.cheese.com/media/img/cheese/526_fresh_truffles.jpg"
+    },
+    {
+        "name": "Colby-Jack",
+        "description": "Colby Jack or Cojack is a classic American combination of Colby and Monterey Jack cheese. The cheese was invented when Colby and Monterey Jack were blended together before pressing. Cojack exhibits a unique, eye-appealing marbled white and orange exterior that makes it a fun snack to eat on the go.\nThe taste of Colby Jack varies from mild and smooth to lightly sweet to sharp and tangy. It groups well with deli meat, sandwiches, soups, sauces, burgers, dark bread like pumpernickel and rye, omelettes, casseroles, steamed vegetables, baked potatoes and fruits like apples and pears. Also, its good melting capabilities make it a perfect choice for casseroles and nachos. This cheese is very popular with Mexican dishes.",
+        "country_origin": "United States",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/colby_jack_cubes_istock.jpg"
+    },
+    {
+        "name": "Brie de Meaux",
+        "description": "Brie de Meaux, named after the town of Meaux, is a French cheese produced in the region of Brie, located 50 kilometres to the east of Paris. Evidence in the chronicles of Charlemagne suggests the tasting of Brie by the Emperor in the year 774. In 1814, the European Tournament at the Congress of Vienna awarded Brie de Meaux the \"Le Roi des Fromages\" (The King of Cheeses) for its unarguable flavour and texture.\nBrie de Meaux, an AOC cheese, should be matured in the regions of Seine-et-Marne, Loiret, Aube, Marne, Haut-Marne, Meuse and Yonne. The difference between production and maturation places is a typical Brie tradition.\nThis is a soft, unpasteurised cow's milk cheese covered with a bloomy rind resulting from inoculation with Penicillium Candidum moulds. As the cheese ages, the rind develops red or brown patches. When nearly half of the straw-coloured pate becomes soft, it indicates Brie de Meaux is ready for consumption.\nBrie has a milky and rich taste underlined by sweet and buttery flavours of mushrooms or truffles and almonds. The cheese pairs well with Champagne, a red Bordeaux or Bourgogne (Burgundy).",
+        "country_origin": "France",
+        "aroma": "nutty, sweet",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/Brie_De_Meaux.jpg"
+    },
+    {
+        "name": "Maasdam",
+        "description": "Maasdam is a traditional, semi-hard Dutch cheese made from cow's milk. The most characteristic feature is its 'eyes' (holes) that make up most of the cheese. The cheese was created in the early 1990s as an alternative to more expensive Swiss Emmental cheese. It is a high-fat cheese with a minimum of 45% fat. Although similar to Emmental, the moisture content in Maasdam is more, making it suppler. Nearly 15% of Dutch cheese production is made up of Maasdam.\nIt ripens faster than other Dutch cheeses, being ready in four to 12 weeks. The outside shell of the cheese has a smooth, yellow rind. Sometimes, the rind is waxed like Gouda. Inside the pate is a semi-firm, pale yellow with big eyes. It has a creamy texture and a sweet, buttery, nutty taste with a fruity background. If eaten young, it tastes delectable with a sandwich or as a snack. Satiate your taste buds by melting the cheese on casseroles, soups or fondues.\nMaasdam cheese has all of the traits of Leerdammer cheese except for the brand name, which resides exclusively with Le Groupe Bel. It pairs well with White Zinfandel, Lager, Pale Ale, Gewurztraminer, Chardonnay, Merlot, Sauvignon Blanc and Chianti.",
+        "country_origin": "Netherlands",
+        "aroma": "fruity",
+        "image": "https://www.cheese.com/media/img/cheese/wiki/maasdam.jpg"
+    },
+    {
+        "name": "Sage Derby",
+        "description": "Sage Derby is a variety of British Derby cheese infused with sage to produce a glorious green marble effect and subtle herb flavour. It is England\u2019s oldest and most famous cheese, made only for special occasions like Christmas.\nTo make this cheese, freshly milled, salted Derby curd and sprinkles of fresh sage are arranged in layers and left to mature for six months. Some dairies blend dried sage with mature, chopped Derby and then repress it again.\nIt is a semi-hard, delicate cheese with a mild sage flavour and is well known for its versatility. Its natural rind is often dusted with sage. Due to the bright markings, the cheese looks very striking on a cheeseboard.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "herbal",
+        "image": "https://www.cheese.com/media/img/cheese/Sage_derby_cheese.jpg"
+    },
+    {
+        "name": "Kasseri",
+        "description": "Kasseri is a traditional Greek-Turkish cheese made from unpasteurised sheep milk with no more than 20% goat milk mixed in. It is a springy-textured, stringy cheese belonging to the pasta filata family like Provolone or Muenster. The cheese needs to be matured for a minimum of four months to obtain the correct texture and flavour.\u00a0\nThis white-crust cheese also competes against another famous Greek cheese, Feta. Kasseri\u00a0is used as a substitute for mozzarella by many Americans and is\u00a0preferred by connoisseurs who like full-flavoured cheeses. A bite of Kasseri will enrich your palate with exciting salty flavours and a pungent odour. But interestingly, it soon leaves behind a sweet aftertaste because of the usage of sheep milk.\nThe fat content of this table cheese is between 25% - 45%, and\u00a0it goes well with omelettes, and sandwiches.",
+        "country_origin": "Greece",
+        "aroma": "pungent",
+        "image": "https://www.cheese.com/media/img/cheese/01-kasseri-shutterstock_130035044.jpg"
+    },
+    {
+        "name": "Bel Paese",
+        "description": "Bel Paese, meaning \u2018beautiful country\u2019 in Italian, is a semi-soft cheese from the Lombardy region. It was formulated by Egidio Galbani in 1906 who wanted to invent a product that would compete with French Alpine cheeses. The name is derived from a book by Abbot Antonio Stoppani \"Il Bel Paese\", published in 1873.\nThe cheese has a milky aroma infused with a mild buttery flavour. The taste can be compared with Mozzarella and St. Paulin. The pale yellow cheese may occasionally be riddled with \u201ceyes\u201d. The cheese is hard to spread but soft enough to slice. It is wrapped in a waxed, foil or plastic rind.\nBel Paese takes 6 to 8 weeks to mature and comes in several different sizes from small buttons to large 5lb wheels. An original Bel Paese can be identified by a map of Italy and a picture of Antonio Stoppani on the label of the cheese. The American version has a map of United States on the label.\nThe Italian cheese goes well with fruits like apples, pears and figs. As it has good melting capacity, it is often used in casseroles, hot Panini, focaccio or on a pizza. It can be eaten with fruity wines, such as dry red or white.",
+        "country_origin": "Italy",
+        "aroma": "pleasant",
+        "image": "https://www.cheese.com/media/img/cheese/604-bel_paese.jpg"
+    },
+    {
+        "name": "Danablu (Danish Blue)",
+        "description": "Danablu (Danish Blue) is a semi-soft blue-veined cheese made from cow's milk. Produced by Rosenborg in Denmark, it has a creamy and crumbly texture. The cheese belongs to the blue cheese family. In eight to twelve months, it matures with a yellowish edible rind. It is sharp and salty in taste with 25-30% fat. Suitable for non-vegetarians, it can be paired with Cabernet.",
+        "country_origin": "Denmark",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/Danablu-Danish-Blue.jpg"
+    },
+    {
+        "name": "Bath Soft Cheese",
+        "description": "Bath Soft Cheese is an organic, soft-white cheese made from pasteurised\u00a0cow's milk. This cheese is soft and runny with a white bloomy rind. The flavours are earthy, mushroomy and aromatic, underpinned by citrusy and grassy notes. The recipe for Bath Soft dates to 1801 at the time of Admiral Lord Nelson when he received it as a gift from his father.\nThe 4-inch square cheese comes attractively wrapped in parchment paper with a red wax seal. Bath Soft Cheese pairs well with Champagne and Sparkling Vouvray.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "aromatic, grassy",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/BSC1.jpg"
+    },
+    {
+        "name": "Cheshire",
+        "description": "Appleby's\u00a0Cheshire is a British cheese produced in the English counties of Cheshire and the neighbouring four counties of Denbighshire, Flintshire, Shropshire and Staffordshire. Reputed to have been made since Roman times, the cheese is also mentioned in the Domesday Book of the 11th century.\nDense and crumbly, Cheshire is made using vegetarian rennet and pasteurised cow\u2019s milk. The taste and flavour of cheese develop with ripening. Young Cheshire is firm, crumbly and white in colour. It is mild, milky and aromatic leaving behind a slightly tangy aftertaste on the palette.\nSometimes, to add a different dimension to the cheese, annatto is added to the milk, which gives Red Cheshire a deep shade of red-orange. However, there is no difference in the flavour and texture in both cousins. Another variant is a Blue Cheshire ripened with Penicillium culture moulds.\nAn aged Cheshire becomes firmer and darkens considerably. It is now a full-flavoured cheese yet with no hint of bitterness. Though still crumbly, the cheese turns dry with maturity.\nCheshire with its lower salt content makes for a perfect crumble on fruits, chutney, and vegetable and baked dishes.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "aromatic",
+        "image": "https://www.cheese.com/media/img/cheese/Cheshire_Cheese.jpg"
+    },
+    {
+        "name": "Cabrales",
+        "description": "Cabrales, also known as Quesu Cabrales, Queso de Cabrales or Cabraliego, is a PDO (Protected Designation of Origin, DOP in Italian) awarded, Spanish semi-hard, fatty blue cheese prepared within the administrative region of Cabrales Council and some towns in the Upper Pe\u00f1amerella region. These areas are located at the foot of the Picos de Europa Mountains in Asturias.\nThe cheese can be made from unpasteurised cow\u2019s milk or blended with goat and/or sheep milk. It is aged between two and four months in naturally formed limestone caves. Chilly and humid conditions in the caves facilitate the growth of bluish-green penicillium mould on this cheese. Unlike other blue cheeses injected with Penicillium, Cabrales cures from the outside of the cheese to the inward.\nA finished Cabrales can be characterised by its strong, penetrating aroma and sharp, acidic, slightly salty taste. It pairs well with red wine, fresh figs, salami, sweet sherry and dry sausages. The cheese is treasured as a base for sauces, melting over grilled or roasted meats. It goes well along with baguette slices, crackers, or fruit.\nEarlier, a traditional Cabrales was sold wrapped in moist leaves of Acer pseudoplatanus. But today, the regulation requires the cheese to be sold in a dark-green-coloured aluminium foil with the PDO Queso de Cabrales stamp.",
+        "country_origin": "Spain",
+        "aroma": "strong",
+        "image": "https://www.cheese.com/media/img/cheese/cabrales.jpg"
+    },
+    {
+        "name": "Fiore Sardo",
+        "description": "Pecorino Sardo (Sardinian Pecorino or Fiore Sardo) is an Italian cheese made exclusively from sheep's milk, particularly the milk of Sardinian sheep breeds. Pecorino Sardo cheese is recognized with a PDO status, ensuring its production adheres to traditional methods on the island of Sardinia. It is a semi-hard cheese with a smooth, slightly crumbly texture. The texture and flavour can vary depending on the ageing period. The ageing period can range from several months to over a year. Pecorino Sardo has a slightly nutty and sweet flavour, making it milder and less salty than Pecorino Romano.\nPecorino Sardo is used in various dishes and as grating cheese for pasta and soups. It pairs well with Sardinian wines, fruits, and traditional Sardinian breads.",
+        "country_origin": "Italy",
+        "aroma": "mild",
+        "image": "https://www.cheese.com/media/img/cheese/Fiore_Sardo.jpg"
+    },
+    {
+        "name": "Cotswold",
+        "description": "Cotswold is a variation of Double Gloucester, which has been supplemented with spring onions and chives for added flavour. A whole milk cheese that can be made from either pasteurised or unpasteurised cow's milk; Cotswold originates in Gloucestershire County of England. The colour varies from golden yellow to orange and is a firm cheese similar to cheddar.\u00a0\nThe taste of Cotswold is creamy, buttery, sweet and mild yet full-flavoured, like cheddar. The savoury taste of chives and spring onions gives it that extra zing. This variation of Double Gloucester pairs well with beer, Zinfandel or Shiraz and is popular as a pub cheese in England.",
+        "country_origin": "England, Great Britain and United Kingdom",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/19-cotswold-shutterstock_55436554.jpg"
+    },
+    {
+        "name": "Cahill's Irish Porter Cheddar",
+        "description": "Marion Cahill made Irish Plain Porter Cheese from pasteurised cow's milk and Guinness-brewer Porter since 1759. It is blended to create a visually dramatic mosaic pattern which is the most attractive part of the cheese other than its flavour. Irish Porter is a vegetarian cheese as the curds and whey are separated with vegetable rennet. The flavours of this brown waxed gourmet cheese are full, rich, tangy and chocolaty with a pungent finish. It goes well with salads. This cheese can also be served grilled. Pair Irish Porter with Chardonnay, Pinot Gringo or Claret Sancerre.\nSince July 2022, Cahill\u2019s cheese is now available from Singletons & Co.",
+        "country_origin": "Ireland",
+        "aroma": "rich",
+        "image": "https://www.cheese.com/media/img/cheese/05-cahills-irish-porter-cheddar-shutterstock_1563775300.jpg"
+    },
+    {
+        "name": "Brie de Melun",
+        "description": "Brie de Melun is said to be the ancestor of all Brie's, which originated in the region of northern France known as Seine-et-Marne. It was granted an AOC protection in 1980 that requires that the cheese be manufactured under strict guidelines for supreme quality.\nBrie de Melun is produced from either whole or skimmed, raw milk of cows grazing in the valleys of Seine et Marne and some departments of Aube and Yonne. It is semi-soft cheese inoculated with a Penicillium mould and aged in a cellar for at least 4-5 weeks. If the cheese is left to ripen for a longer period, say several months, it matures to a Brie Noir.\u00a0\nIt is an aromatic cheese with slightly musty and straw-like smells floating in the air. Over-ripening the Brie can result in an unpleasant odour from bacteria used to ripen the mould. The texture is semi-soft, and the rind is slightly dry. The rind turns darker and crumbly as the cheese matures to a Brie Noir. In addition, the pate is drier and darker, and the flavour is stronger to taste. The usual flavours are strongly lactic and slightly salty, finished by soft, barnyard, sour notes. Brie de Melun is used to prepare regional dishes like cro\u00fbte au brie. It pairs well with Gaillac and wines from Burgundy or the Rhone Valley.",
+        "country_origin": "France",
+        "aroma": "grassy, musty",
+        "image": "https://www.cheese.com/media/img/cheese/Brie_de_Melun.jpg"
+    },
+    {
+        "name": "Maytag Blue",
+        "description": "Maytag is a blue cheese produced by Maytag Dairy Farms from the milk of Holstein cattle. The farm located outside Newton, Iowa has been making this handcrafted cheese since 1941 using traditional methods of curing. Even today, the blue cheese is not produced in huge quantities as the cheesemakers want to ensure that only the best quality cheese reaches the consumers.\nMaytag Blue cheese is ripened over six months during which it develops a dense, crumbly texture and semi-sharp flavour. Every bite of Maytag melts in the mouth releasing a slightly tangy flavour with a lemony finish. With its pungent odour, the cheese might not suit everyone\u2019s tastes. The cheese delivered in decorative silver foil tastes delectable when crumbled into salads, crackers or melted onto a burger.\nAlso, try it with a glass of ale or lager. Other cheeses from the farm include White Cheddar and Cheddar\u00a0Cheese Spreads.",
+        "country_origin": "United States",
+        "aroma": "pungent, strong",
+        "image": "https://www.cheese.com/media/img/cheese/630-maytag_blue.jpg"
+    },
+    {
+        "name": "Armenian String Cheese",
+        "description": "Armenian string cheese also called Chechil\u00a0is formed in long strings twisted together. It is a product that is peelable and when it is peeled, it separates from the larger cheese in strips. Most of the cheeses cannot be peeled because of the way they are processed. The curds are pressed into blocks resulting in the cheese either crumbling or breaking apart. In the case of string cheese, the curds are worked into elastic strips, which are then plaited or twisted. This creates fibres of cheese that can be pulled away in strings. Cow, sheep, and goat milk can be used in the preparation of string cheese. It is popular with children as it is an excellent source of protein and calcium.\nIn the MidEast countries such as Armenia and Syria, traditional string cheese is prepared from goat or sheep\u2019s milk. In some places, it is made from 100% whole milk of cow. The cheese is flavoured with various spices including black cumin, nigella seeds and a unique Middle Eastern spice known as mahleb. The cheese is available in an indefinite plaited loop. In Syria, string cheese is known by its Arabic name \u2018Jibneh Mshallaleh\u2019. Middle Eastern string cheese goes well with Lebanese bread and liquorice flavoured Greek liqueur, Ouzo.\nThe flavour of Middle Eastern string cheese varies from velvety, buttery to a sharp, tangy one. Texturally, it is firm and flexible besides giving a thread feeling in the mouth. Many people associate Mozzarella with string cheese as it can be plucked apart in logs.",
+        "country_origin": "Armenia and Syria",
+        "aroma": "nutty",
+        "image": "https://www.cheese.com/media/img/cheese/03-armenian-string-cheese-shutterstock_1447310846.jpg"
+    },
+    {
+        "name": "String Cheese",
+        "description": "String cheese is extremely popular, especially among children. When a hard cheese is heated (60\u00b0C (140\u00b0F)) and stretched, the milk proteins line up which make it stringy.\nThe texture of the cheese is chewy, firm and stringy. Many types of string cheeses made from different cheeses are available in the market, ranging from smoked, unsmoked, garlic, and onion versions.\nIn Slovakia, the string cheese called korb\u00e1\u010diky is available in two flavours namely smoked or unsmoked. It is made by hand-pulling steamed sheep or cow milk cheese.\nIn Turkey, the string cheese called dil peyniri (\"tongue cheese\"), is a fresh white cheese made from cow's milk.\nIn Armenia, the string cheese, chechil, is made with a white base. It is seasoned with black cumin and mahleb.\nIn Georgia and Russia string cheese is known as tenili is made from fermented sheep's milk and cream allowed to mature for 60 days in a salted and dried veal stomach.\nIn the UK, Cheestrings are made from real cheese. Cheestrings are available in original and the two-colour twisted variety.\nIn Mexico, the string cheese called Quesillo is sold today in balls of various sizes.\nIn the United States, string cheese or cheese stick is made from mozzarella or a combination of mozzarella and cheddar.\nIn Australia, string cheese from Bega Cheese company is called Bega Stringers.",
+        "country_origin": "Unknown",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/string_cheese_istock.jpg"
+    },
+    {
+        "name": "Yorkshire Blue",
+        "description": "Yorkshire Blue is a traditional, vegetarian, blue cheese made from 100% Yorkshire cow\u2019s milk. When launched in 1995, Yorkshire Blue was Shepherds Purse\u2019s first blue and first cow\u2019s milk cheese.\nHandcrafted, the cheese is matured over a period of 8 weeks during which the cheese is turned one at a time to ensure uniform blue veining and creaminess. \u00a0Upon ripening, the cheese is buttery, sweet and mild in flavour. Extended ageing will give the Yorkshire Blue a more pronounced flavour, but it will always remain mild & creamy. This moist and spreadable cheese can be crumbled or melted into soups, sauces and baking dishes.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "strong",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/Yorkshire-Blue_1280x800.jpg"
+    },
+    {
+        "name": "Dry Jack",
+        "description": "Dry Monterey Jack (simply Dry Jack) is an aged version of the Monterey Jack that originated in the United States in the mid-1950s. Dry Jack was created by accident in 1915. During World War I, an aged version of Monterey Jack - Dry Jack was developed to replace the European cheeses mainly, Grana and Parmesan that were not available due to the war.\u00a0\nDry Jack cheese is a firm cheese with a pale yellow pate, a nutty yet mild and assertive flavour.\u00a0The cheese is similar in texture to Parmesan, and it is a good substitute for churning and grating over salads, pasta, soups or tacos. The cheese can be shredded, cooked, or sliced. You will never go wrong by grating Dry Jack over casseroles, toasted cheese sandwiches, omelettes and souffl\u00e9s. Consider Chardonnay, Pinot Noir, Rose, Shiraz or Zinfandel with a Dry Jack.",
+        "country_origin": "United States",
+        "aroma": "aromatic, earthy",
+        "image": "https://www.cheese.com/media/img/cheese/427px-Sonoma_Dry_Jack.jpg"
+    },
+    {
+        "name": "Grev\u00e9",
+        "description": "For the first time produced in 1964 at\u00a0\u00d6rnsk\u00f6ldsvik,\u00a0in V\u00e4sternorrland County, Sweden,\u00a0Grev\u00e9\u00a0is a semi-hard Swedish cheese made from cow\u2019s milk. It is similar to Emmental, having a mild, sweet and nutty taste.\u00a0This cream-coloured cheese has a smooth and creamy texture with large holes throughout. It contains 30-40% fat and takes ten months to attain full ripeness.\u00a0\nWith beer and white wine, Grev\u00e9\u00a0is served as a snacking cheese, and it is sometimes also known as Greveost.",
+        "country_origin": "Sweden",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/wiki/greve.jpg"
+    },
+    {
+        "name": "Marble Cheddar",
+        "description": "Marble Cheddar is a variant of typical English Cheddar produced by blending white and orange cheddars. Similar to traditional cheddar it has a very rich taste and smooth, buttery texture. The cheese can be enjoyed in quiches, omelettes or melted over baked dishes and vegetables. Add it to pastries for a melt-in-the-mouth creamy flavour.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "Unknown",
+        "image": "https://www.cheese.com/media/img/cheese/49-Marble-Cheddar-shutterstock_1510127318.jpg"
+    },
+    {
+        "name": "Cashel Blue",
+        "description": "Jane and Louis Grubb have made the Cashel Blue cheese on their farms since 1984. It is Ireland's original farmhouse blue cheese. Nearly 50% of the pasteurised milk used in the cheese comes from Grubb's selected Holstein-Friesians cows, while the remaining comes from local herds. The rennet used in making this cheese makes it suitable for vegetarians.\nDepending on the age, Cashel Blue's texture varies from chalky to soft yellow paste. Young cheese tastes & smells chalky and lactic, while the older ones are rich & buttery with a well-formed blue colour. Over 18 weeks of maturing, the cheese takes on a robust flavour and granular texture. It is one of the finest blue cheeses that relies on its balance in taste, texture and aroma.\nYoung Cashel Blue pairs well with Gewurztraminer, while medium-aged wheels favour Sauternes and New World Botrytis Semillion. The aged cheeses are good with LBV Port. Pick the scrumptious cheese to crumble onto salads or snack on with grapes.",
+        "country_origin": "Ireland",
+        "aroma": "pungent, strong",
+        "image": "https://www.cheese.com/media/img/cheese-suggestion/Cashel-Blue_1280x800.jpg"
+    },
+    {
+        "name": "Harbourne Blue",
+        "description": "Harbourne Blue is a semi-soft cheese made from pasteurised goat\u2019s milk and a vegetarian coagulant at Ticklemore Cheese Dairy in Devon. This handmade cheese has a floral, clean and yoghurty aroma. It develops light blue veins with a crumbly texture after maturation. It is suitable for vegetarians and contains 48% fat. Being a milder cheese, it can be served with wines like Sauternes, Port and Bordeaux.",
+        "country_origin": "England, Great Britain and United Kingdom",
+        "aroma": "clean, floral, Yoghurty",
+        "image": "https://www.cheese.com/media/img/cheese/Harbourne_Blue.JPG"
+    },
+    {
+        "name": "Gloucester",
+        "description": "Gloucester is a traditional, full-fat, hard cheese made from pasteurised or unpasteurised cow milk. The cheese, made from the milk of once nearly extinct Old Gloucester cows, traces its origins to 1498 in the City of Gloucester.Gloucester comes in two varieties. Single Gloucester is made from skimmed milk and\u00a0Double Gloucester uses full-fat milk. In addition, Double Gloucester is twice the height of Single Gloucester and more flavourful. It is also said that Double Gloucester uses whole milk taken from two milkings or a mixture of milk and cream. On the other hand, Single Gloucester uses whole cream milk from the morning milking and skimmed milk from the evening milking. Single Gloucester has a P.D.O designation, meaning it is produced only in Gloucestershire. It is matured for less time and thus develops a fresh, somewhat nutty taste but is slightly more acidic than Double. Also, it is lighter in texture, crumbly and low in fat.Double Gloucester has a smooth buttery texture, rich and nutty yet mellow flavour and apricot colour due to the addition of annatto plant extract. Vegetarian rennet is used, and the cheese is aged for at least four months. The cheese develops more complex and nutty flavours if it is aged further. Moreover, the texture tends to become very hard and flaky.\nDouble Gloucester participates every year in Cooper's Hill Cheese-Rolling and Wake, where buyers jump on the cheese to evaluate its quality and sustainability. A traditional British Ale or red like Syrah perfectly complements a Double Gloucester.",
+        "country_origin": "England and United Kingdom",
+        "aroma": "fresh, sweet",
+        "image": "https://www.cheese.com/media/img/cheese/Gloucester-cheese.jpg"
+    },
+    {
+        "name": "Blue Vein (Australian)",
+        "description": "Blue cheese (or bleu cheese) is a semi-soft cheese with a sharp, salty flavour. The Penicillium mold cultures are added at the initial stage of the cheesemaking process, giving it blue or green spots or veins throughout the cheese. The creamy texture and a pungent aroma from mold or cultivated bacteria tend to be the characteristic feature of blue cheese.\u00a0For some blue cheeses, spores are injected before the formation of curds, and for some cheeses, spores are mixed in with the curds. During ageing, the blue cheeses are kept in temperature-controlled environments such as caves.\nAustralia has made historic progress in producing a variety of Blue Cheeses. The cheesemakers of Australia have been making blue-veined cheese for over 70 years. The first blue cheese factories were recorded to have started in northern New South Wales and Gippsland in the 1930s and 1940s. At present, more than 22 styles of blue cheese are produced in Australia. Australia produces three basic types of blue cheese \u2013 Gorgonzola, Danish and Blue Brie.",
+        "country_origin": "Australia",
+        "aroma": "stinky, strong",
+        "image": "https://www.cheese.com/media/img/cheese/Roaring_Forties_Blue_Cheese.jpg"
     },
     {
         "name": "Blue Castello",
