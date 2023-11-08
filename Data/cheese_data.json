@@ -99,8 +99,8 @@
     },
     {
         "name": "Monterey Jack",
-        "description": "Monterey Jack earns the rightful position as a true \u201cAmerican\u201d cheese since it originated in the Mexican Franciscan friars of Monterey, California. Around the 1700s, these monasteries around the Monterey region were making a semi-firm, creamy, mild-flavoured cheese from cow\u2019s milk which was aged for a little period. \u00a0An American entrepreneur named David Jack realized its commercial value and started selling it all over California. The cheese became popular by the name \u201cMonterey Jack's\u201d or \u201cJack's Monterey,\u201d eventually acquiring the name Monterey Jack.\nMonterey Jack\u00a0is commonly used in Mexican and Spanish cuisine because it is mild in flavour and melts really well. It is similar in taste and texture to Colby and Cheddar. Variants of Monterey Jack, known as Dry Jack (aged version) and Pepper Jack (pepper spiced), are also quite popular. Monterey Jack is available across all grocery stores and supermarkets in the United States. Consider Pinot Noir and Riesling with this cheese.",
-        "country_origin": "Mexico and United States",
+        "description": "Monterey Jack earns the rightful position as a true \u201cAmerican\u201d cheese since it originated in the Mexican Franciscan friars of Monterey, California. Around the 1700s, these monasteries around the Monterey region were making a semi-firm, creamy, mild-flavoured cheese from cow\u2019s milk which was aged for a little period. \u00a0An American entrepreneur named David Jack realized its commercial value and started selling it all over California. The cheese became popular by the name \u201cMonterey Jack's\u201d or \u201cJack's Monterey,\u201d eventually acquiring the name Monterey Jack.\nMonterey Jack\u00a0is commonly used in Mexican and Spanish cuisine because it is mild in flavour and melts really well. It is similar in taste and texture to Colby and Cheddar. Variants of Monterey Jack, known as Dry Jack (aged version) and Pepper Jack (pepper spiced), are also quite popular. Monterey Jack is available across all grocery stores and supermarkets in the . Consider Pinot Noir and Riesling with this cheese.",
+        "country_origin": "Mexico and ",
         "aroma": "aromatic",
         "image": "https://www.cheese.com/media/img/cheese/grated_cheese_2.jpg"
     },
@@ -127,7 +127,7 @@
     },
     {
         "name": "Pepper Jack",
-        "description": "Pepper Jack is a derivative of Monterey Jack, the original \u201cAmerican\u201d cheese invented by Mexican Franciscan friars of Monterey, California. As the name suggests, the cheese is flavoured with sweet peppers, rosemary, haba\u00f1ero chillies, garlic, and spicy jalape\u00f1os for an extra kick.\nThis semi-soft, open-textured cheese is spicy yet leaves a delicate buttery taste in the mouth. It is often eaten with quesadillas, crackers or hamburgers. Pepper jack can also go well with jalapeno peppers, melons, grapes, pickled vegetables, and olives.",
+        "description": "Pepper Jack is a derivative of Monterey Jack, the original American cheese invented by Mexican Franciscan friars of Monterey, California. As the name suggests, the cheese is flavoured with sweet peppers, rosemary, haba\u00f1ero chillies, garlic, and spicy jalape\u00f1os for an extra kick.\nThis semi-soft, open-textured cheese is spicy yet leaves a delicate buttery taste in the mouth. It is often eaten with quesadillas, crackers or hamburgers. Pepper jack is often sold in the United States and can also go well with jalapeno peppers, melons, grapes, pickled vegetables, and olives.",
         "country_origin": "United States",
         "aroma": "aromatic, herbal",
         "image": "https://www.cheese.com/media/img/cheese/paper_jack.jpg"
@@ -163,7 +163,7 @@
     {
         "name": "Cottage Cheese",
         "description": "Cottage cheese is a soft cheese curd product with a mild flavour. The curd is drained but not pressed, so some whey remains and retains moisture. The curd is generally washed to remove the acidity. It is made from different types of milk with different fat levels.\nThe term 'cottage cheese' is believed to have originated because the cheese was generally made in cottages from leftover milk. Cottage cheese can be eaten by itself, with fruits, toast or even used in salads. The cheese is creamy, lumpy and sold in pots.",
-        "country_origin": "United Kingdom and United States",
+        "country_origin": "United Kingdom",
         "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/514_cottage_cheese.jpg"
     },
@@ -183,7 +183,7 @@
     },
     {
         "name": "Cream Cheese",
-        "description": "Cream cheese is a fresh, soft mild tasting cheese produced from unskimmed cow\u2019s milk. This cheese, made from cream and milk, has a high-fat content. In the US, cream cheese contains at least 33% fat content, while in Britain, it should be a minimum of 45-65%. Anything above is considered double or triple cream cheese. In German, it is also called Doppelrhamstufel, meaning cheese made with \"double cream\". The cheese has a mild lactic aroma, a slightly salty and sweet taste. The cheese is suitable for vegetarians and comes in various flavoured varieties, including herbs, garlic, black pepper, fruits etc.\u00a0\nIt has a relatively short life, even when refrigerated. Cream cheese made using the traditional method tends to be more crumbly than spreadable, while those with stabilizers like guar gum are more firm. The taste, texture and production of cream cheese are similar to Boursin and Mascarpone.\nIt is used to enrich cheesecakes, frostings, dips, toppings, sweet & savoury dishes and desserts.",
+        "description": "Cream cheese is a fresh, soft mild tasting cheese produced from unskimmed cow\u2019s milk. This cheese, made from cream and milk, has a high-fat content. In the United States, cream cheese contains at least 33% fat content, while in Britain, it should be a minimum of 45-65%. Anything above is considered double or triple cream cheese. In German, it is also called Doppelrhamstufel, meaning cheese made with \"double cream\". The cheese has a mild lactic aroma, a slightly salty and sweet taste. The cheese is suitable for vegetarians and comes in various flavoured varieties, including herbs, garlic, black pepper, fruits etc.\u00a0\nIt has a relatively short life, even when refrigerated. Cream cheese made using the traditional method tends to be more crumbly than spreadable, while those with stabilizers like guar gum are more firm. The taste, texture and production of cream cheese are similar to Boursin and Mascarpone.\nIt is used to enrich cheesecakes, frostings, dips, toppings, sweet & savoury dishes and desserts.",
         "country_origin": "United States",
         "aroma": "fresh, pleasant",
         "image": "https://www.cheese.com/media/img/cheese/cream_cheese_bagel.jpg"
@@ -239,7 +239,7 @@
     },
     {
         "name": "Colby-Jack",
-        "description": "Colby Jack or Cojack is a classic American combination of Colby and Monterey Jack cheese. The cheese was invented when Colby and Monterey Jack were blended together before pressing. Cojack exhibits a unique, eye-appealing marbled white and orange exterior that makes it a fun snack to eat on the go.\nThe taste of Colby Jack varies from mild and smooth to lightly sweet to sharp and tangy. It groups well with deli meat, sandwiches, soups, sauces, burgers, dark bread like pumpernickel and rye, omelettes, casseroles, steamed vegetables, baked potatoes and fruits like apples and pears. Also, its good melting capabilities make it a perfect choice for casseroles and nachos. This cheese is very popular with Mexican dishes.",
+        "description": "Colby Jack or Cojack is a classic American (United States) combination of Colby and Monterey Jack cheese. The cheese was invented when Colby and Monterey Jack were blended together before pressing. Cojack exhibits a unique, eye-appealing marbled white and orange exterior that makes it a fun snack to eat on the go.\nThe taste of Colby Jack varies from mild and smooth to lightly sweet to sharp and tangy. It groups well with deli meat, sandwiches, soups, sauces, burgers, dark bread like pumpernickel and rye, omelettes, casseroles, steamed vegetables, baked potatoes and fruits like apples and pears. Also, its good melting capabilities make it a perfect choice for casseroles and nachos. This cheese is very popular with Mexican dishes.",
         "country_origin": "United States",
         "aroma": "Unknown",
         "image": "https://www.cheese.com/media/img/cheese/colby_jack_cubes_istock.jpg"
