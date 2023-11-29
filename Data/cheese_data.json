@@ -100,7 +100,7 @@
     {
         "name": "Monterey Jack",
         "description": "Monterey Jack earns the rightful position as a true \u201cAmerican\u201d cheese since it originated in the Mexican Franciscan friars of Monterey, California. Around the 1700s, these monasteries around the Monterey region were making a semi-firm, creamy, mild-flavoured cheese from cow\u2019s milk which was aged for a little period. \u00a0An American entrepreneur named David Jack realized its commercial value and started selling it all over California. The cheese became popular by the name \u201cMonterey Jack's\u201d or \u201cJack's Monterey,\u201d eventually acquiring the name Monterey Jack.\nMonterey Jack\u00a0is commonly used in Mexican and Spanish cuisine because it is mild in flavour and melts really well. It is similar in taste and texture to Colby and Cheddar. Variants of Monterey Jack, known as Dry Jack (aged version) and Pepper Jack (pepper spiced), are also quite popular. Monterey Jack is available across all grocery stores and supermarkets in the . Consider Pinot Noir and Riesling with this cheese.",
-        "country_origin": "Mexico and ",
+        "country_origin": "Mexico",
         "aroma": "aromatic",
         "image": "https://www.cheese.com/media/img/cheese/grated_cheese_2.jpg"
     },
@@ -155,7 +155,7 @@
     },
     {
         "name": "Comte",
-        "description": "Comt\u00e9 is a French cheese produced in the Jura Massif region of Eastern France. The unpasteurised cow's milk used is mainly from Montbeliarde Cattle or French Simmental (or crossbreeds of the two). This hard mountain cheese is matured to perfection in the special caves where the cheese gets its unique taste, texture and colour. There are several maturing cellars in the region where Comt\u00e9 is ripened for a minimum of 4 months to 18 or 24 months. A few times, Comt\u00e9 gets its name from the cellar where it has ripened, such as Comt\u00e9 Fort Saint-Antoine.\nComt\u00e9 was one of the first few kinds of cheese to receive an AOC (Appellation d'origine controlee) status in 1958. It is one of the most popular AOC cheeses in France, with around 40,000 tonnes of annual production.\nA wedge of Comte reveals a pale yellow interior and a texture that can vary from silky, flabby to crystalline. There are over 80 flavours which can be savoured while tasting Comt\u00e9. But the main aromatic flavours that delicately linger on the palate are a balance of brown-butter and roasted-nut aromas and a sweet finish.\nIts ability to melt easily means Comt\u00e9 goes well with many recipes right from fondues to Croque Monsieur. The cheese pairs well with Rhone reds, a Palo Cortado or off-dry Amontillado sherry from Spain.",
+        "description": "Comte is a French cheese produced in the Jura Massif region of Eastern France. The unpasteurised cow's milk used is mainly from Montbeliarde Cattle or French Simmental (or crossbreeds of the two). This hard mountain cheese is matured to perfection in the special caves where the cheese gets its unique taste, texture and colour. There are several maturing cellars in the region where Comt\u00e9 is ripened for a minimum of 4 months to 18 or 24 months. A few times, Comt\u00e9 gets its name from the cellar where it has ripened, such as Comt\u00e9 Fort Saint-Antoine.\nComt\u00e9 was one of the first few kinds of cheese to receive an AOC (Appellation d'origine controlee) status in 1958. It is one of the most popular AOC cheeses in France, with around 40,000 tonnes of annual production.\nA wedge of Comte reveals a pale yellow interior and a texture that can vary from silky, flabby to crystalline. There are over 80 flavours which can be savoured while tasting Comt\u00e9. But the main aromatic flavours that delicately linger on the palate are a balance of brown-butter and roasted-nut aromas and a sweet finish.\nIts ability to melt easily means Comt\u00e9 goes well with many recipes right from fondues to Croque Monsieur. The cheese pairs well with Rhone reds, a Palo Cortado or off-dry Amontillado sherry from Spain.",
         "country_origin": "France",
         "aroma": "nutty",
         "image": "https://www.cheese.com/media/img/cheese-suggestion/ComteAOC_1280x800.jpg"
@@ -238,7 +238,7 @@
         "image": "https://www.cheese.com/media/img/cheese/526_fresh_truffles.jpg"
     },
     {
-        "name": "Colby-Jack",
+        "name": "Colby Jack",
         "description": "Colby Jack or Cojack is a classic American (United States) combination of Colby and Monterey Jack cheese. The cheese was invented when Colby and Monterey Jack were blended together before pressing. Cojack exhibits a unique, eye-appealing marbled white and orange exterior that makes it a fun snack to eat on the go.\nThe taste of Colby Jack varies from mild and smooth to lightly sweet to sharp and tangy. It groups well with deli meat, sandwiches, soups, sauces, burgers, dark bread like pumpernickel and rye, omelettes, casseroles, steamed vegetables, baked potatoes and fruits like apples and pears. Also, its good melting capabilities make it a perfect choice for casseroles and nachos. This cheese is very popular with Mexican dishes.",
         "country_origin": "United States",
         "aroma": "Unknown",
